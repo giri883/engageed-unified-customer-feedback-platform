@@ -1,0 +1,6 @@
+{
+  "name": "EngageEd - Unified Customer Feedback Platform",
+  "description": "Unified platform connecting customer service experiences with stress-free AI-assisted feedback collection, real-time sentiment analytics, and business issue intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
